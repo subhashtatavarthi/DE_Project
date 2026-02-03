@@ -10,6 +10,22 @@ An enterprise-grade Data Engineering pipeline implementing the **Medallion Archi
 
 ## 🏗️ Architecture Overview
 
+The following diagram illustrates the data flow through the Medallion layers:
+
+```mermaid
+graph LR
+    subgraph "Ingest"
+        S[Source CSVs] --> R[Raw Layer]
+    end
+    subgraph "Process"
+        R --> C[Curated Layer]
+        C --> G[Gold Layer]
+    end
+    subgraph "Observe"
+        P[Engine] -.-> A[Audit/Watermark]
+    end
+```
+
 The pipeline organizes data into four logical databases:
 
 1.  **🟠 Raw (`raw.db`)**: Direct ingestion of source CSVs. Data is stored "as-is" with additional ingestion metadata (`ingestion_timestamp`).
