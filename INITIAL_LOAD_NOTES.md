@@ -3,6 +3,9 @@
 ## 🏗️ Full Process Architecture
 The following diagram illustrates the complete data flow, from the source CSV files through the Medallion layers (Raw, Curated, Gold), including the Audit and Watermark tracking system.
 
+![Architecture Diagram](docs/architecture.png)
+
+### Technical Flow (Mermaid Reference)
 ```mermaid
 graph TD
     subgraph "Source (External)"

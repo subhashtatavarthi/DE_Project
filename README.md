@@ -12,7 +12,9 @@ An enterprise-grade Data Engineering pipeline implementing the **Medallion Archi
 
 The following diagram illustrates the data flow through the Medallion layers:
 
-```mermaid
+![Architecture Diagram](docs/architecture.png)
+
+### Visual Process Flow
 graph LR
     subgraph "Ingest"
         S[Source CSVs] --> R[Raw Layer]
