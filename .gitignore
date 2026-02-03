@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# Databases
+*.db
+*.db-journal
+
+# OS
+.DS_Store
+
+# Notes
+# (Optional) If you want to keep your notes but not the logs
+# data/Target/System/audit.db

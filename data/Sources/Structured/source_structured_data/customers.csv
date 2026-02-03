@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,phone,city,state,country,segment
+CUST0001,Christian,Curtis,christian.curtis@example.com,001-290-062-5596x5276,East Jonchester,TX,USA,Retail
+CUST0002,Wendy,Perez,wendy.perez@example.com,+1-702-428-2342x4122,Juliebury,LA,USA,Corporate
+CUST0003,Pamela,Robinson,pamela.robinson@example.com,0155127395,West Sophia,NC,USA,SME
+CUST0004,Patrick,Young,patrick.young@example.com,(908)215-1129,North Johnberg,AR,USA,Retail
+CUST0005,Rhonda,Meadows,rhonda.meadows@example.com,900.680.3419,Port Lauren,AZ,USA,Corporate
+CUST0006,Cynthia,Gibbs,cynthia.gibbs@example.com,9340645651,South Donnastad,OH,USA,Corporate
+CUST0007,Jason,Walker,jason.walker@example.com,+1-718-822-4565x1677,East Martha,ME,USA,Corporate
+CUST0008,Lee,Medina,lee.medina@example.com,(932)966-8158x59391,New Ashley,DC,USA,Retail
+CUST0009,Bonnie,Moore,bonnie.moore@example.com,614-919-7780x222,Amymouth,NC,USA,Retail
+CUST0010,Kevin,Beck,kevin.beck@example.com,0329255980,New Crystal,MA,USA,SME
+CUST0011,Devin,Abbott,devin.abbott@example.com,897.053.5227,Joshuatown,MI,USA,SME
+CUST0012,Carol,Mitchell,carol.mitchell@example.com,578-801-1904x404,Port Jacobtown,AK,USA,Retail
+CUST0013,Jason,Williams,jason.williams@example.com,+1-108-292-1986,Michellemouth,LA,USA,SME
+CUST0014,Christina,Mccoy,christina.mccoy@example.com,7057364641,Millerhaven,IN,USA,Corporate
+CUST0015,Rachael,Green,rachael.green@example.com,(788)641-1428,Seanside,DC,USA,Corporate
+CUST0016,Carly,Johnson,carly.johnson@example.com,(091)878-4785,North Kari,RI,USA,Retail
+CUST0017,Kendra,Price,kendra.price@example.com,512-378-7504,East Williefurt,MT,USA,Retail
+CUST0018,Samantha,Ramirez,samantha.ramirez@example.com,001-960-705-4271,West John,LA,USA,Retail
+CUST0019,Patricia,Higgins,patricia.higgins@example.com,355.074.1367,Marcoland,MO,USA,SME
+CUST0020,Corey,Brown,corey.brown@example.com,(197)947-7361x1402,Lake Oliviaville,ME,USA,Retail
+CUST0021,Nicole,Mcclain,nicole.mcclain@example.com,543-567-4540x709,Donshire,TX,USA,SME
+CUST0022,Brent,Graham,brent.graham@example.com,834-424-9878,Heatherborough,VA,USA,SME
+CUST0023,Stacy,Smith,stacy.smith@example.com,(975)741-3015x281,Lake Rebecca,AK,USA,Corporate
+CUST0024,Richard,Becker,richard.becker@example.com,+1-036-762-6931x702,Barbaramouth,AZ,USA,Retail
+CUST0025,Joseph,Moody,joseph.moody@example.com,+1-401-634-6429x66430,Chasestad,DE,USA,SME
+CUST0026,Matthew,Harvey,matthew.harvey@example.com,(539)578-2742x39637,New Catherine,SC,USA,SME
+CUST0027,Crystal,Hernandez,crystal.hernandez@example.com,(751)906-4846x49148,Warrenmouth,MS,USA,Retail
+CUST0028,Jeffrey,Torres,jeffrey.torres@example.com,4947677691,Monicamouth,MT,USA,Retail
+CUST0029,Lauren,Davis,lauren.davis@example.com,1296797281,South Jamesburgh,NV,USA,Retail
+CUST0030,Rebecca,Roberts,rebecca.roberts@example.com,001-923-599-3239x35839,West Yolandaland,GA,USA,SME
+CUST0031,Jeremiah,Chavez,jeremiah.chavez@example.com,139.769.4940,Matthewtown,CO,USA,Retail
+CUST0032,Eric,Edwards,eric.edwards@example.com,524-667-3118x4936,North Lawrence,NC,USA,SME
+CUST0033,Gregory,Walker,gregory.walker@example.com,+1-773-803-5678,West Morgan,ND,USA,Retail
+CUST0034,Ray,Wang,ray.wang@example.com,001-936-702-1332,Samanthabury,SC,USA,Retail
+CUST0035,Carolyn,Rogers,carolyn.rogers@example.com,001-450-318-1696x4787,West Nancy,ME,USA,SME
+CUST0036,Heather,Jensen,heather.jensen@example.com,538.903.2126x6595,Port Amandatown,NH,USA,Retail
+CUST0037,Keith,Franklin,keith.franklin@example.com,8132129390,West Tylerchester,HI,USA,Corporate
+CUST0038,Tracy,Tate,tracy.tate@example.com,170-115-1160x1195,Lisaton,AL,USA,Retail
+CUST0039,Leslie,Stevens,leslie.stevens@example.com,(306)768-7256,East Rebecca,FL,USA,Retail
+CUST0040,Larry,Hill,larry.hill@example.com,001-761-072-8214,Lake Justinville,ME,USA,Corporate
+CUST0041,Jeremiah,Gordon,jeremiah.gordon@example.com,410.587.3664x41106,West Amandatown,MS,USA,SME
+CUST0042,James,Andrade,james.andrade@example.com,560-367-9895x021,South Deannaview,DE,USA,SME
+CUST0043,Heather,May,heather.may@example.com,327.656.0793,Shepardside,ND,USA,Retail
+CUST0044,Alexis,Brown,alexis.brown@example.com,0619905266,Cannontown,AZ,USA,SME
+CUST0045,Crystal,Thomas,crystal.thomas@example.com,(747)592-9550x0071,West Matthewburgh,MD,USA,Corporate
+CUST0046,Brandy,Hart,brandy.hart@example.com,988.818.1485x25439,South Glennton,GA,USA,Corporate
+CUST0047,Natalie,Armstrong,natalie.armstrong@example.com,(692)551-0032x9439,Josephfort,KS,USA,Retail
+CUST0048,Jeffery,Holt,jeffery.holt@example.com,001-362-545-0194x27615,West Susanborough,WA,USA,SME
+CUST0049,Lori,Bryant,lori.bryant@example.com,+1-360-818-2569x14424,Lake Jacob,UT,USA,Retail
+CUST0050,Timothy,Salazar,timothy.salazar@example.com,883.730.6898,Tateshire,IL,USA,Corporate
+CUST0051,Pamela,Preston,pamela.preston@example.com,885.249.0488,Caldwellborough,NH,USA,Retail
+CUST0052,James,Allen,james.allen@example.com,3735454818,West Diana,IL,USA,SME
+CUST0053,Jeffrey,Rodriguez,jeffrey.rodriguez@example.com,+1-414-784-3153x3240,Kellymouth,IN,USA,Retail
+CUST0054,Carlos,Myers,carlos.myers@example.com,+1-269-938-6347x8092,Garciachester,AK,USA,Corporate
+CUST0055,David,Peterson,david.peterson@example.com,178-385-7372x476,East Sarahport,GA,USA,SME
+CUST0056,Ricardo,Hunter,ricardo.hunter@example.com,221.815.5315,East Michael,TN,USA,Retail
+CUST0057,Stephanie,Pugh,stephanie.pugh@example.com,001-620-082-3006,Griffinton,KS,USA,Retail
+CUST0058,Aaron,Hancock,aaron.hancock@example.com,407.777.2680x963,North Staciefurt,MS,USA,SME
+CUST0059,Erik,Marks,erik.marks@example.com,1708170095,New Maria,PA,USA,Corporate
+CUST0060,Robert,Ramos,robert.ramos@example.com,001-871-692-4452x6490,East Todd,FL,USA,SME
+CUST0061,Melissa,Johnson,melissa.johnson@example.com,276-797-1331x902,Lutzton,ND,USA,SME
+CUST0062,Andrea,Roberts,andrea.roberts@example.com,(350)797-3602,Katherinemouth,AK,USA,Corporate
+CUST0063,Randy,Johnson,randy.johnson@example.com,(857)474-8043x708,South Karen,GA,USA,SME
+CUST0064,Jane,Reyes,jane.reyes@example.com,087.517.0989x5958,Lake Jessicaview,KY,USA,Retail
+CUST0065,Lisa,Thornton,lisa.thornton@example.com,(409)266-1000x1386,Cherryland,TN,USA,SME
+CUST0066,Pamela,Larson,pamela.larson@example.com,001-731-729-9348x3008,North Elizabeth,MN,USA,Corporate
+CUST0067,Christopher,Rivera,christopher.rivera@example.com,(271)777-7014x45650,New Oscar,WA,USA,Corporate
+CUST0068,Heather,Hebert,heather.hebert@example.com,+1-618-865-7081x299,Lake Tammyside,MT,USA,SME
+CUST0069,Carrie,Ware,carrie.ware@example.com,+1-971-219-3788x6615,West Amberhaven,ME,USA,SME
+CUST0070,Rose,Freeman,rose.freeman@example.com,641-201-1523,West Kristenfurt,KS,USA,SME
+CUST0071,Tina,Wilson,tina.wilson@example.com,(476)584-1549x6258,Kellerfort,MI,USA,SME
+CUST0072,Nicholas,Wallace,nicholas.wallace@example.com,(423)043-1529x1214,Port Jameston,IL,USA,SME
+CUST0073,Sheri,Gutierrez,sheri.gutierrez@example.com,(617)597-2917x15695,Kyleton,WA,USA,SME
+CUST0074,Jaime,Sherman,jaime.sherman@example.com,+1-905-389-7172x9674,East Jasmineport,NE,USA,SME
+CUST0075,Denise,Gregory,denise.gregory@example.com,548.936.1099,Lake Joshuaborough,OH,USA,Corporate
+CUST0076,Brandon,Jones,brandon.jones@example.com,001-240-531-1851,South Ashleyburgh,DE,USA,Retail
+CUST0077,Christopher,Jennings,christopher.jennings@example.com,+1-625-554-0529x34117,Garciaburgh,IA,USA,Retail
+CUST0078,Todd,Ramos,todd.ramos@example.com,313.779.7998x030,North Michaelhaven,DC,USA,SME
+CUST0079,Michelle,Chase,michelle.chase@example.com,001-622-578-3951x88867,Port Amystad,KY,USA,SME
+CUST0080,Andrew,Johnson,andrew.johnson@example.com,+1-612-101-3401x37442,Christophermouth,NJ,USA,SME
+CUST0081,Steven,Holden,steven.holden@example.com,001-240-721-1055x81043,West Michelleland,IN,USA,SME
+CUST0082,Eric,Tucker,eric.tucker@example.com,041.647.0391x4715,Stevenside,MD,USA,SME
+CUST0083,Nicholas,Lozano,nicholas.lozano@example.com,001-896-950-0915x0724,West Jenna,AL,USA,Corporate
+CUST0084,Tracey,Schwartz,tracey.schwartz@example.com,(445)159-5463,Pageville,DC,USA,Retail
+CUST0085,Emily,Martinez,emily.martinez@example.com,(257)014-9888x6654,Sanfordville,MT,USA,Retail
+CUST0086,Sarah,Andrews,sarah.andrews@example.com,(367)340-3112,West Justinside,PA,USA,SME
+CUST0087,Todd,Johnson,todd.johnson@example.com,266-037-9278x7911,Williamview,MD,USA,SME
+CUST0088,Barbara,Velez,barbara.velez@example.com,+1-664-169-2932,Shellyland,MO,USA,Corporate
+CUST0089,John,Martin,john.martin@example.com,001-217-993-7221x92244,Joneshaven,WY,USA,SME
+CUST0090,Daniel,Carson,daniel.carson@example.com,936-734-4766x662,Melissahaven,RI,USA,Retail
+CUST0091,Anthony,Villa,anthony.villa@example.com,(836)072-8044x87487,Skinnerport,IA,USA,SME
+CUST0092,Kenneth,Perry,kenneth.perry@example.com,427-408-5596x97536,North Pamela,IN,USA,Corporate
+CUST0093,Barbara,Jacobson,barbara.jacobson@example.com,476.619.2862x62245,East Michael,TX,USA,SME
+CUST0094,Lauren,Hall,lauren.hall@example.com,+1-963-028-7549,Haysfurt,ND,USA,Corporate
+CUST0095,Jason,Gomez,jason.gomez@example.com,660.722.8355,Kristyside,UT,USA,Corporate
+CUST0096,Rose,Hernandez,rose.hernandez@example.com,001-337-827-9319,West Lauraborough,WV,USA,SME
+CUST0097,Adriana,Clements,adriana.clements@example.com,001-963-648-5488x8440,Port Sherry,IA,USA,Retail
+CUST0098,Katherine,Hooper,katherine.hooper@example.com,+1-601-772-5877x55602,Kellytown,OR,USA,Corporate
+CUST0099,David,Ross,david.ross@example.com,766.033.0589,Lake Nicholas,DE,USA,SME
+CUST0100,Cindy,Robinson,cindy.robinson@example.com,237-026-0532,Amberport,WA,USA,Retail
+CUST0101,Joshua,Hughes,joshua.hughes@example.com,+1-159-042-9642x936,South Rachelview,NC,USA,Retail
+CUST0102,Oscar,Sanchez,oscar.sanchez@example.com,(990)622-6574x933,Wandaview,TN,USA,Retail
+CUST0103,Gregory,Pope,gregory.pope@example.com,721-148-4804x415,Castrotown,NM,USA,Retail
+CUST0104,Andrew,Hansen,andrew.hansen@example.com,+1-275-683-8405,Jacksonside,WY,USA,Retail
+CUST0105,Jessica,Lynch,jessica.lynch@example.com,001-658-322-1489x15135,East Christopher,RI,USA,SME
+CUST0106,Chad,Fisher,chad.fisher@example.com,338-718-2383,Courtneybury,DE,USA,Corporate
+CUST0107,Amanda,Petty,amanda.petty@example.com,0687779205,Brianberg,MS,USA,Retail
+CUST0108,Jeffrey,Chase,jeffrey.chase@example.com,001-127-817-3651x417,Port Joanneview,OR,USA,Retail
+CUST0109,Christopher,Porter,christopher.porter@example.com,507.678.9126x71646,Douglasside,AR,USA,Corporate
+CUST0110,Jennifer,Rice,jennifer.rice@example.com,(996)011-7495x601,North Amyview,SC,USA,Retail
+CUST0111,Michael,Watson,michael.watson@example.com,331-895-5899x291,South Steven,CA,USA,SME
+CUST0112,Nicholas,Griffin,nicholas.griffin@example.com,+1-103-786-8236x628,New Meganland,ME,USA,Corporate
+CUST0113,John,Allen,john.allen@example.com,556-983-4126x375,Stacyberg,NM,USA,Retail
+CUST0114,Lisa,Guerra,lisa.guerra@example.com,+1-831-152-5699x727,Richardsonview,AZ,USA,Corporate
+CUST0115,Sean,Rangel,sean.rangel@example.com,982-995-4388x81072,Joemouth,AK,USA,Corporate
+CUST0116,Colton,Sanders,colton.sanders@example.com,001-221-330-3685x052,Port Michelle,ID,USA,Retail
+CUST0117,Colton,Walsh,colton.walsh@example.com,001-187-965-4410x98972,East Christinaberg,LA,USA,Retail
+CUST0118,Sean,Estrada,sean.estrada@example.com,6396446789,Jennyfort,MT,USA,Retail
+CUST0119,Arthur,Griffin,arthur.griffin@example.com,+1-497-459-0693x6721,Anthonyburgh,MA,USA,Corporate
+CUST0120,Larry,Gonzalez,larry.gonzalez@example.com,6595424533,West Kevin,OH,USA,Retail
+CUST0121,Nicole,Copeland,nicole.copeland@example.com,5285904423,Port Heatherville,SC,USA,Retail
+CUST0122,Jeffrey,Cunningham,jeffrey.cunningham@example.com,+1-765-077-5449x79577,New Luisland,WV,USA,Retail
+CUST0123,Maria,Cobb,maria.cobb@example.com,(549)631-1929x330,Port Rhonda,MO,USA,SME
+CUST0124,Samuel,Hall,samuel.hall@example.com,001-278-608-9748x970,Johnton,KY,USA,Retail
+CUST0125,Lisa,Graves,lisa.graves@example.com,+1-196-743-3782,Saraberg,CT,USA,Retail
+CUST0126,Reginald,Brown,reginald.brown@example.com,001-472-457-9730x633,West Carolynstad,IL,USA,Retail
+CUST0127,Amanda,Figueroa,amanda.figueroa@example.com,(634)374-4149x753,Thomasbury,FL,USA,Retail
+CUST0128,John,Thornton,john.thornton@example.com,001-742-745-4596,Omarbury,MS,USA,SME
+CUST0129,John,Flynn,john.flynn@example.com,+1-572-697-4954,Donaldbury,IA,USA,Corporate
+CUST0130,Kathy,Vaughn,kathy.vaughn@example.com,(591)835-3452,Jonesview,WI,USA,Retail
+CUST0131,Timothy,Blevins,timothy.blevins@example.com,(036)593-0456x31354,South Johnborough,MN,USA,Retail
+CUST0132,Ana,Martin,ana.martin@example.com,001-783-830-1358x219,Millerville,RI,USA,Retail
+CUST0133,Deborah,Garcia,deborah.garcia@example.com,+1-188-222-7639x5873,Port Matthew,WV,USA,Corporate
+CUST0134,Erik,Watkins,erik.watkins@example.com,+1-786-194-2008x722,Lauraport,KS,USA,SME
+CUST0135,Robert,Snow,robert.snow@example.com,(098)883-8422x726,West Davidview,CA,USA,SME
+CUST0136,Julie,Martin,julie.martin@example.com,5517435371,North Johnfort,NY,USA,Retail
+CUST0137,Tyler,Walker,tyler.walker@example.com,(866)899-0087,Hinesmouth,MD,USA,Retail
+CUST0138,Daniel,Jones,daniel.jones@example.com,(833)115-1910x3324,New Jeffreymouth,SC,USA,SME
+CUST0139,Keith,Hughes,keith.hughes@example.com,001-685-619-9791x069,Rodneyfort,FL,USA,Retail
+CUST0140,Melissa,Horton,melissa.horton@example.com,4313451936,Maloneville,DE,USA,Corporate
+CUST0141,Brent,Lee,brent.lee@example.com,001-461-666-3206,South Juliashire,OK,USA,SME
+CUST0142,Colin,Weber,colin.weber@example.com,(382)798-2694x665,Stanleyport,TN,USA,SME
+CUST0143,Brian,Knox,brian.knox@example.com,934.713.6330,North Emily,PA,USA,SME
+CUST0144,Matthew,Thomas,matthew.thomas@example.com,372-466-6703x05374,Christopherberg,FL,USA,SME
+CUST0145,Jack,Jackson,jack.jackson@example.com,1952552608,Pamelabury,MN,USA,SME
+CUST0146,Rachel,Perez,rachel.perez@example.com,475.950.4205,West Jasonstad,UT,USA,Retail
+CUST0147,Amber,Richardson,amber.richardson@example.com,+1-537-709-7267x958,New Kyle,RI,USA,SME
+CUST0148,Michael,Conrad,michael.conrad@example.com,001-376-356-9174,Jamesside,AL,USA,Retail
+CUST0149,Steven,Krueger,steven.krueger@example.com,(735)737-1194x872,East Williamchester,IA,USA,SME
+CUST0150,Kathryn,Cunningham,kathryn.cunningham@example.com,001-715-066-7393x00386,Jeffreyborough,OH,USA,Corporate
+CUST0151,Alexandra,Welch,alexandra.welch@example.com,(037)216-5793x93824,Vegamouth,TN,USA,SME
+CUST0152,Amanda,Adams,amanda.adams@example.com,001-490-036-4046,West Joy,OK,USA,Retail
+CUST0153,Kathleen,Graham,kathleen.graham@example.com,181.091.6740x2278,Pierceburgh,WA,USA,SME
+CUST0154,Kelli,Martinez,kelli.martinez@example.com,3054323123,Johnfort,IL,USA,Corporate
+CUST0155,Ronald,Chan,ronald.chan@example.com,001-194-015-6202,North Ashleybury,CT,USA,Corporate
+CUST0156,Teresa,Miller,teresa.miller@example.com,4624415088,Troychester,WV,USA,Retail
+CUST0157,Jimmy,Mckinney,jimmy.mckinney@example.com,0531493430,East Amanda,WA,USA,Retail
+CUST0158,Matthew,Castillo,matthew.castillo@example.com,(256)115-3785x728,Stacyton,SC,USA,SME
+CUST0159,Jessica,Torres,jessica.torres@example.com,551-066-4313x05480,Port Joyce,MO,USA,Retail
+CUST0160,Ryan,Barker,ryan.barker@example.com,(376)373-8466,Banksshire,NE,USA,Retail
+CUST0161,Melissa,Conrad,melissa.conrad@example.com,164-539-1986x0628,New Allison,AL,USA,Corporate
+CUST0162,Jeff,Meyer,jeff.meyer@example.com,877.304.0700,Thomasborough,CA,USA,Retail
+CUST0163,Michelle,Mccarthy,michelle.mccarthy@example.com,274-365-6033x343,Ruizchester,AZ,USA,Retail
+CUST0164,Kathy,Reeves,kathy.reeves@example.com,236-599-5221x0021,West Benjamin,CA,USA,Retail
+CUST0165,Tommy,Travis,tommy.travis@example.com,(741)189-6141x07146,West Rickchester,SD,USA,Retail
+CUST0166,Arthur,Davis,arthur.davis@example.com,(997)451-6250x4010,North Ronnie,NC,USA,Retail
+CUST0167,Katherine,Garcia,katherine.garcia@example.com,669-748-5172,Donaldport,NM,USA,Corporate
+CUST0168,Kenneth,Le,kenneth.le@example.com,001-961-180-1686x561,West Steven,OK,USA,SME
+CUST0169,Joshua,White,joshua.white@example.com,385.298.9939,Tonyland,NE,USA,Corporate
+CUST0170,Gregory,Johnson,gregory.johnson@example.com,139.456.2588,North Matthew,MD,USA,SME
+CUST0171,Heather,Hughes,heather.hughes@example.com,033.152.5075x7833,South Johnnyhaven,KS,USA,Retail
+CUST0172,Karen,Clark,karen.clark@example.com,001-725-128-5290,Ortegaborough,RI,USA,Retail
+CUST0173,Jessica,Martin,jessica.martin@example.com,939.080.9422x0443,Port Erikbury,AK,USA,Retail
+CUST0174,Joseph,Moody,joseph.moody@example.com,849-639-3710,Mcculloughbury,OR,USA,SME
+CUST0175,Kristin,Caldwell,kristin.caldwell@example.com,+1-186-332-9841x4443,South Emily,OK,USA,SME
+CUST0176,Kyle,Ramirez,kyle.ramirez@example.com,001-931-258-9275x098,New Dustinburgh,IL,USA,SME
+CUST0177,Paul,Thomas,paul.thomas@example.com,860-633-7863,North Colleen,MI,USA,Corporate
+CUST0178,Heather,Dean,heather.dean@example.com,(688)667-2850x464,Stacyhaven,WV,USA,SME
+CUST0179,Sheila,Crawford,sheila.crawford@example.com,(062)872-6100x0100,Martinezshire,VA,USA,Corporate
+CUST0180,Heather,Dyer,heather.dyer@example.com,001-124-153-2566x6530,South Williamchester,TN,USA,SME
+CUST0181,Deborah,Patel,deborah.patel@example.com,+1-950-024-6173x939,North Christian,NY,USA,SME
+CUST0182,Caroline,Miller,caroline.miller@example.com,+1-977-541-0532x632,West Melissaborough,NJ,USA,Retail
+CUST0183,Michele,Bowman,michele.bowman@example.com,340.679.6584,Lake Troytown,CO,USA,Corporate
+CUST0184,Amanda,Adams,amanda.adams@example.com,001-111-717-6622x5852,North Ricky,NY,USA,Retail
+CUST0185,Julie,Parsons,julie.parsons@example.com,074-453-0280x8781,Gregoryburgh,SD,USA,Retail
+CUST0186,Kimberly,Simmons,kimberly.simmons@example.com,(601)587-1928x7763,East Mark,SD,USA,SME
+CUST0187,Brittney,Rangel,brittney.rangel@example.com,647.664.9301,North Valerieland,NV,USA,Retail
+CUST0188,Amanda,Gates,amanda.gates@example.com,065.445.5191,Robertport,IL,USA,Corporate
+CUST0189,Monica,Webb,monica.webb@example.com,8429591640,New Sherry,SC,USA,Retail
+CUST0190,Alex,Smith,alex.smith@example.com,5744045886,Lake Michaelfort,HI,USA,Retail
+CUST0191,Peter,Young,peter.young@example.com,001-972-506-9054x92132,Adkinsberg,CT,USA,Retail
+CUST0192,Amanda,Stewart,amanda.stewart@example.com,641-476-2654,Lake Robertberg,MD,USA,Retail
+CUST0193,Dylan,Turner,dylan.turner@example.com,365.079.6507x41917,Robinsonside,DC,USA,SME
+CUST0194,Sarah,Gray,sarah.gray@example.com,646-066-7937x027,South Amyburgh,AK,USA,SME
+CUST0195,Anthony,Nelson,anthony.nelson@example.com,(800)187-9469x7171,Jamesberg,TN,USA,SME
+CUST0196,Antonio,Mcintyre,antonio.mcintyre@example.com,763-931-1944,West Nicoleberg,IN,USA,Retail
+CUST0197,Sean,Carroll,sean.carroll@example.com,+1-217-000-6472x39543,South Brianport,ND,USA,SME
+CUST0198,Anthony,Patton,anthony.patton@example.com,163-618-0580x21947,Rebeccaview,ME,USA,Retail
+CUST0199,Krystal,Bryant,krystal.bryant@example.com,912-572-1253,Leeside,IL,USA,SME
+CUST0200,Tina,Stanley,tina.stanley@example.com,001-004-324-6162,Port Christopher,CO,USA,Retail
+CUST0201,Maria,Mitchell,maria.mitchell@example.com,9298810055,Hernandezton,NY,USA,Corporate
+CUST0202,Teresa,Kelley,teresa.kelley@example.com,001-842-740-0747x935,North Kimberlyshire,NV,USA,Retail
+CUST0203,Justin,Stark,justin.stark@example.com,259-048-0391x6671,Chenland,GA,USA,SME
+CUST0204,Michaela,Jones,michaela.jones@example.com,001-104-121-7574x89217,Hortonborough,NM,USA,Corporate
+CUST0205,David,Murphy,david.murphy@example.com,(607)080-5208x59192,South Austin,WY,USA,SME
+CUST0206,Maria,Lopez,maria.lopez@example.com,347.715.1909,Roachport,UT,USA,SME
+CUST0207,Marie,Ellis,marie.ellis@example.com,+1-770-103-9213x56330,Jenkinston,DC,USA,SME
+CUST0208,Rodney,Jackson,rodney.jackson@example.com,948-699-7791,Kellyport,OH,USA,Corporate
+CUST0209,Kerry,Jones,kerry.jones@example.com,222-032-1742x396,Amyview,IN,USA,SME
+CUST0210,Sydney,Swanson,sydney.swanson@example.com,(502)137-8559,Murilloshire,RI,USA,Corporate
+CUST0211,William,Ryan,william.ryan@example.com,+1-875-656-9368x04057,New Debbie,NJ,USA,SME
+CUST0212,Amber,Collins,amber.collins@example.com,(125)510-3868x61933,Cowanshire,ME,USA,Retail
+CUST0213,Brian,Hayden,brian.hayden@example.com,106.092.8362,Franciscoport,CO,USA,Retail
+CUST0214,Danielle,Wood,danielle.wood@example.com,001-123-602-6084x749,West Saraland,HI,USA,SME
+CUST0215,Joseph,Jordan,joseph.jordan@example.com,672-150-6229x121,North Lauraland,ME,USA,Corporate
+CUST0216,Timothy,Hines,timothy.hines@example.com,158-707-4223,Myersfort,WA,USA,Retail
+CUST0217,Jesse,Gonzalez,jesse.gonzalez@example.com,(380)978-2064,Evantown,MD,USA,Corporate
+CUST0218,Leslie,Russell,leslie.russell@example.com,+1-451-810-7460x126,Erinbury,ME,USA,SME
+CUST0219,Debra,Silva,debra.silva@example.com,029-127-7189,North Paulfort,RI,USA,SME
+CUST0220,Emily,Clark,emily.clark@example.com,263-603-1837x23854,Powellland,NH,USA,Retail
+CUST0221,Nichole,Fox,nichole.fox@example.com,+1-083-699-2596x044,Cookmouth,MD,USA,Corporate
+CUST0222,Theresa,Holmes,theresa.holmes@example.com,(988)087-6114x35447,Danatown,UT,USA,Retail
+CUST0223,Jerry,Robinson,jerry.robinson@example.com,(109)293-9440x993,Lewisfurt,OH,USA,Corporate
+CUST0224,Shannon,Atkins,shannon.atkins@example.com,+1-447-792-3169x3447,Port Linda,NV,USA,SME
+CUST0225,Dustin,Osborne,dustin.osborne@example.com,702.206.9651x28146,Collinsberg,MT,USA,Retail
+CUST0226,Melissa,Salazar,melissa.salazar@example.com,130-460-2926x213,New Danielside,MI,USA,Retail
+CUST0227,Lynn,Robinson,lynn.robinson@example.com,613-341-6166,Gardnerhaven,WA,USA,Corporate
+CUST0228,Alejandro,Johnson,alejandro.johnson@example.com,022.099.7453x7840,Griffithview,KY,USA,Corporate
+CUST0229,William,Ray,william.ray@example.com,+1-253-275-5901x477,New Christine,TN,USA,SME
+CUST0230,Barbara,Frazier,barbara.frazier@example.com,(747)035-2911,New Robert,ME,USA,SME
+CUST0231,Dwayne,Terrell,dwayne.terrell@example.com,100.082.0900,Ryanbury,NC,USA,Retail
+CUST0232,Susan,Klein,susan.klein@example.com,660-514-2355x4823,South Samanthaborough,NE,USA,Corporate
+CUST0233,Amber,Hull,amber.hull@example.com,062.380.7823,Port Victor,IA,USA,Retail
+CUST0234,James,Adams,james.adams@example.com,559-728-5316x2319,Lake Joshuabury,AL,USA,Retail
+CUST0235,Autumn,Shelton,autumn.shelton@example.com,001-461-938-7944x708,Stevensborough,MO,USA,Retail
+CUST0236,Jason,Day,jason.day@example.com,816.608.3795x700,Gamblemouth,VT,USA,Corporate
+CUST0237,Angela,Fox,angela.fox@example.com,(125)816-0348x5900,New Jeffreymouth,LA,USA,Corporate
+CUST0238,Lindsey,Norris,lindsey.norris@example.com,(482)183-8055,Kellyton,MO,USA,SME
+CUST0239,Brendan,Robertson,brendan.robertson@example.com,001-914-101-6728x9346,Garciachester,IN,USA,Corporate
+CUST0240,Denise,Diaz,denise.diaz@example.com,+1-699-668-3756x6480,South Marilynfurt,LA,USA,Retail
+CUST0241,Joshua,Smith,joshua.smith@example.com,9518499880,New Johnside,NJ,USA,Retail
+CUST0242,Keith,Davis,keith.davis@example.com,671.829.6359x923,Christinafurt,AZ,USA,SME
+CUST0243,Karen,Anderson,karen.anderson@example.com,001-506-312-3256x75146,Port Samantha,VT,USA,SME
+CUST0244,Amy,Flores,amy.flores@example.com,4497465939,South Haleystad,MT,USA,SME
+CUST0245,James,Johnson,james.johnson@example.com,512.604.1434x5610,North Jessicachester,AL,USA,Corporate
+CUST0246,Eric,Farrell,eric.farrell@example.com,+1-182-558-2830x37533,Garciaton,AR,USA,SME
+CUST0247,Kaitlyn,Harris,kaitlyn.harris@example.com,396.055.9508,East Mark,KY,USA,SME
+CUST0248,Lisa,Castro,lisa.castro@example.com,(056)794-5883,East Elizabethburgh,PA,USA,SME
+CUST0249,Christina,Martinez,christina.martinez@example.com,+1-507-816-6670x225,Romanville,IA,USA,Corporate
+CUST0250,Timothy,Sheppard,timothy.sheppard@example.com,(395)787-9283x2760,Amandaville,LA,USA,SME
+CUST0251,Tiffany,Nunez,tiffany.nunez@example.com,(910)322-7193,North Deborah,VA,USA,Corporate
+CUST0252,Sarah,Allen,sarah.allen@example.com,7487268007,South Lisaton,FL,USA,SME
+CUST0253,Christopher,Miller,christopher.miller@example.com,(777)390-3206x9853,Rogersville,ME,USA,SME
+CUST0254,Dominique,Aguirre,dominique.aguirre@example.com,(509)927-3732x410,Kyleland,MI,USA,SME
+CUST0255,Joel,Evans,joel.evans@example.com,+1-523-747-9391,Reginaldshire,MS,USA,Corporate
+CUST0256,Alejandra,Martinez,alejandra.martinez@example.com,015-085-2429,Port James,NY,USA,SME
+CUST0257,Lisa,Bell,lisa.bell@example.com,861-443-7850x4027,North Christopher,MI,USA,SME
+CUST0258,Troy,Ramos,troy.ramos@example.com,778.264.7039,Davidland,PA,USA,Corporate
+CUST0259,Whitney,Barnett,whitney.barnett@example.com,(024)809-9647,East Jeffrey,OH,USA,Retail
+CUST0260,David,Ramirez,david.ramirez@example.com,001-023-068-4477x695,West Kellybury,TN,USA,Corporate
+CUST0261,Nathan,Lester,nathan.lester@example.com,(976)689-1418,Lake Andrew,FL,USA,Retail
+CUST0262,Megan,Williams,megan.williams@example.com,642.051.3163,Port Lindaside,IL,USA,Retail
+CUST0263,Jay,Johnson,jay.johnson@example.com,272.126.1300x215,South Julie,ND,USA,Retail
+CUST0264,Jennifer,Phillips,jennifer.phillips@example.com,(854)035-2844,Bestburgh,DC,USA,SME
+CUST0265,Daniel,Reynolds,daniel.reynolds@example.com,001-276-699-5440x3103,Henryville,NC,USA,Retail
+CUST0266,William,Bradford,william.bradford@example.com,407.317.9196x042,Port Nancyburgh,AR,USA,SME
+CUST0267,Jonathan,Hernandez,jonathan.hernandez@example.com,(321)981-8738x58092,Richardberg,ID,USA,Retail
+CUST0268,Jeffrey,Hodge,jeffrey.hodge@example.com,+1-220-480-0595x5439,Cabreraside,KS,USA,SME
+CUST0269,Carmen,Hampton,carmen.hampton@example.com,001-966-814-1283x0882,New Emily,KS,USA,SME
+CUST0270,Louis,Michael,louis.michael@example.com,001-153-725-9649x8289,South Jeffery,MO,USA,Corporate
+CUST0271,Linda,Brown,linda.brown@example.com,646.181.5243,New Michael,CT,USA,Corporate
+CUST0272,John,Gray,john.gray@example.com,+1-409-371-5234x00538,North Angela,NH,USA,Corporate
+CUST0273,Ryan,Hancock,ryan.hancock@example.com,260-904-3496x270,North John,NH,USA,Retail
+CUST0274,Courtney,Young,courtney.young@example.com,(149)107-5418x89217,Hayleyport,NC,USA,SME
+CUST0275,Amanda,York,amanda.york@example.com,(718)913-9572,West Charlotteborough,FL,USA,Retail
+CUST0276,Scott,Thornton,scott.thornton@example.com,781-310-9927x9951,South Breannafurt,ID,USA,Retail
+CUST0277,Felicia,Robertson,felicia.robertson@example.com,(553)232-7874x6231,West Brittany,OK,USA,Corporate
+CUST0278,Marcus,Ward,marcus.ward@example.com,+1-874-608-8498x30589,Richardborough,MA,USA,Retail
+CUST0279,Sharon,Davis,sharon.davis@example.com,+1-759-746-4732,Jenningsmouth,VA,USA,SME
+CUST0280,Alexandra,Ross,alexandra.ross@example.com,001-440-556-8105,Hernandezburgh,WV,USA,Retail
+CUST0281,Laurie,Lee,laurie.lee@example.com,(923)313-5446x913,Jenkinshaven,CA,USA,Corporate
+CUST0282,Aimee,Murphy,aimee.murphy@example.com,527-779-8159x19756,Irwinton,FL,USA,Corporate
+CUST0283,Kevin,Garcia,kevin.garcia@example.com,+1-589-545-2567x7645,Lyonsberg,OK,USA,SME
+CUST0284,Zachary,Holland,zachary.holland@example.com,(956)571-9577x3529,Kathleenberg,NH,USA,Corporate
+CUST0285,Shannon,Thompson,shannon.thompson@example.com,6308159669,Dawnhaven,NY,USA,Retail
+CUST0286,Denise,Hanson,denise.hanson@example.com,(902)432-2236x097,Kimberlyland,UT,USA,Corporate
+CUST0287,Suzanne,Murphy,suzanne.murphy@example.com,+1-571-883-5594x3548,Hudsonborough,ID,USA,Retail
+CUST0288,Catherine,Osborne,catherine.osborne@example.com,9695926464,West Maryfort,ME,USA,Retail
+CUST0289,Sarah,Chambers,sarah.chambers@example.com,001-170-484-8796x37400,West Brian,CA,USA,Retail
+CUST0290,Amy,Flowers,amy.flowers@example.com,8143912196,Kimberlymouth,OH,USA,SME
+CUST0291,Timothy,Bowers,timothy.bowers@example.com,(655)957-6374x012,Brianchester,HI,USA,SME
+CUST0292,Anna,Snyder,anna.snyder@example.com,001-703-550-7470x1104,Amandafurt,DE,USA,Corporate
+CUST0293,Julie,Mejia,julie.mejia@example.com,+1-354-513-6772x483,Shieldsfurt,MS,USA,Retail
+CUST0294,Thomas,Peterson,thomas.peterson@example.com,721.481.4368,East Corey,OR,USA,Corporate
+CUST0295,Jessica,Wilson,jessica.wilson@example.com,(278)800-3818x0462,North Aaronmouth,MI,USA,SME
+CUST0296,David,Jones,david.jones@example.com,352.363.4242,Jonathanside,TN,USA,Corporate
+CUST0297,Sara,Sandoval,sara.sandoval@example.com,607-827-8106x43817,New Meghanport,SD,USA,Corporate
+CUST0298,Linda,Thompson,linda.thompson@example.com,165.410.1203x9143,Kellyhaven,NE,USA,Retail
+CUST0299,Joshua,Torres,joshua.torres@example.com,8661153633,Edwintown,AL,USA,Corporate
+CUST0300,Barbara,Thomas,barbara.thomas@example.com,982-219-3137x4104,Shannonville,RI,USA,Corporate
+CUST0301,Joseph,Russell,joseph.russell@example.com,296.092.1580x524,Port Nicholasland,WV,USA,Corporate
+CUST0302,Marissa,Lopez,marissa.lopez@example.com,551.349.4499,Brownfort,KY,USA,Retail
+CUST0303,Sandra,Parker,sandra.parker@example.com,(656)475-1573,Port Christyhaven,SC,USA,Corporate
+CUST0304,Richard,Kelley,richard.kelley@example.com,429-176-6393x6458,Rubioton,AZ,USA,Retail
+CUST0305,Melissa,Santos,melissa.santos@example.com,(118)071-9681,West Eric,NJ,USA,Retail
+CUST0306,Erik,Williams,erik.williams@example.com,+1-538-990-0150x86469,Dillonport,OH,USA,SME
+CUST0307,Anthony,Holt,anthony.holt@example.com,(388)654-6715x375,Manuelberg,MI,USA,SME
+CUST0308,Sarah,Kelly,sarah.kelly@example.com,+1-643-326-5867x55711,North Jeromemouth,KY,USA,Corporate
+CUST0309,Michael,Jackson,michael.jackson@example.com,001-482-445-0040x26852,North Laurie,SD,USA,Corporate
+CUST0310,Charles,Anderson,charles.anderson@example.com,+1-586-633-6435x1303,Sherihaven,OH,USA,SME
+CUST0311,Patricia,Rich,patricia.rich@example.com,+1-401-996-8325x59890,New Michaelmouth,IL,USA,SME
+CUST0312,Stephen,Sims,stephen.sims@example.com,330.744.9264,West Steven,IN,USA,SME
+CUST0313,Cynthia,Warner,cynthia.warner@example.com,+1-494-175-2680x498,Thomasburgh,DE,USA,Corporate
+CUST0314,Teresa,Rosales,teresa.rosales@example.com,582-478-6472x76838,Lake Patricia,DE,USA,SME
+CUST0315,Sandra,Chambers,sandra.chambers@example.com,6968842366,Lake Katie,TN,USA,Retail
+CUST0316,Kristen,Miller,kristen.miller@example.com,(233)653-4367x0202,Ryanview,KY,USA,SME
+CUST0317,Maria,Diaz,maria.diaz@example.com,+1-595-666-5236,Williamchester,NE,USA,SME
+CUST0318,Emily,Reed,emily.reed@example.com,001-910-419-1528x053,West Sharonport,CA,USA,SME
+CUST0319,Donna,Hale,donna.hale@example.com,4294192466,East Rebecca,WI,USA,Corporate
+CUST0320,Jason,Welch,jason.welch@example.com,849.997.4922,Kristinefurt,UT,USA,Retail
+CUST0321,Joseph,Silva,joseph.silva@example.com,+1-401-086-5181,Amyfort,AL,USA,Retail
+CUST0322,Andrew,Brown,andrew.brown@example.com,148.110.0982x0634,Darrylland,CT,USA,Retail
+CUST0323,Johnathan,Waller,johnathan.waller@example.com,+1-371-842-2742x3955,Maxwellstad,SC,USA,Retail
+CUST0324,John,Shannon,john.shannon@example.com,207.504.9569x7720,Taylorville,AK,USA,Retail
+CUST0325,Jonathan,Bell,jonathan.bell@example.com,001-098-621-5827,Grayberg,VA,USA,Corporate
+CUST0326,Jason,Mata,jason.mata@example.com,(230)403-8188x44439,Angelashire,NJ,USA,Retail
+CUST0327,John,Martin,john.martin@example.com,060-778-2782,Jenniferville,CT,USA,Corporate
+CUST0328,Kevin,Adams,kevin.adams@example.com,+1-092-521-2526x520,Kyleland,WV,USA,Retail
+CUST0329,Peter,Tucker,peter.tucker@example.com,001-698-071-5842x595,Garrettchester,OR,USA,Retail
+CUST0330,Courtney,Adams,courtney.adams@example.com,+1-194-380-0302,North Dana,NJ,USA,Retail
+CUST0331,Evan,Rollins,evan.rollins@example.com,(924)602-4810x97940,Lake Michaelborough,KS,USA,Retail
+CUST0332,William,Shaw,william.shaw@example.com,995-306-0587,Cindyport,VT,USA,Retail
+CUST0333,John,Mitchell,john.mitchell@example.com,(813)304-2713x81851,East Karl,NM,USA,Corporate
+CUST0334,Cheryl,Shelton,cheryl.shelton@example.com,001-294-118-7168,Schultzside,TN,USA,Retail
+CUST0335,Robert,Brewer,robert.brewer@example.com,(206)159-8144x82973,East Jose,VT,USA,Retail
+CUST0336,Leslie,Hogan,leslie.hogan@example.com,889.964.3491,South Keith,SC,USA,Retail
+CUST0337,Matthew,Curry,matthew.curry@example.com,001-211-471-9795x64458,Lake Robertbury,LA,USA,Retail
+CUST0338,Caroline,Berry,caroline.berry@example.com,669-471-2509,Williamsville,UT,USA,SME
+CUST0339,Kevin,Carpenter,kevin.carpenter@example.com,001-734-295-4164x1545,South David,WV,USA,Retail
+CUST0340,Lisa,Bradley,lisa.bradley@example.com,001-210-851-5421x236,New Tonyburgh,MA,USA,SME
+CUST0341,Robert,Page,robert.page@example.com,(073)075-3569,Longton,WI,USA,Corporate
+CUST0342,Heather,Coleman,heather.coleman@example.com,2741846638,Bradleyland,ND,USA,Retail
+CUST0343,Pamela,Clark,pamela.clark@example.com,826.307.9237,Sarastad,MT,USA,Retail
+CUST0344,Aaron,Gutierrez,aaron.gutierrez@example.com,146.051.0652x74407,Popeville,ND,USA,Retail
+CUST0345,Austin,Allen,austin.allen@example.com,(176)929-6644,Littlefurt,NM,USA,Retail
+CUST0346,Rebecca,Cook,rebecca.cook@example.com,001-342-147-7616,Port William,LA,USA,SME
+CUST0347,Matthew,Barker,matthew.barker@example.com,(734)452-7027,Shannonhaven,FL,USA,Retail
+CUST0348,Adam,Colon,adam.colon@example.com,001-877-946-7782x1610,Deanchester,SC,USA,Corporate
+CUST0349,Deborah,Bush,deborah.bush@example.com,823-533-5138x289,Johnhaven,IA,USA,SME
+CUST0350,Charles,Hernandez,charles.hernandez@example.com,192-259-4929x434,Williamfurt,AK,USA,Retail
+CUST0351,Robert,Kennedy,robert.kennedy@example.com,481.859.9394,Tonyborough,MI,USA,Retail
+CUST0352,Greg,Duncan,greg.duncan@example.com,001-875-449-4061x657,Tammyland,FL,USA,Corporate
+CUST0353,Samuel,Dunn,samuel.dunn@example.com,708.523.2920x2548,Port Cassandrachester,OK,USA,Retail
+CUST0354,Dennis,Fox,dennis.fox@example.com,629.809.5742x207,New Kimberlyshire,IN,USA,SME
+CUST0355,Steve,Thomas,steve.thomas@example.com,729-603-1937,Nancyborough,DC,USA,Corporate
+CUST0356,Darren,Patrick,darren.patrick@example.com,795.376.5796x520,Peterbury,CO,USA,SME
+CUST0357,Gary,Martinez,gary.martinez@example.com,896.109.0799x62450,East Angela,IA,USA,SME
+CUST0358,Kim,Henderson,kim.henderson@example.com,810.586.8646x56804,Rodgersborough,AK,USA,Corporate
+CUST0359,Derek,Foster,derek.foster@example.com,253.281.2571x793,West Michael,SD,USA,SME
+CUST0360,Christina,Myers,christina.myers@example.com,(656)973-2050x3019,Port Micheleville,VT,USA,SME
+CUST0361,Charles,Valenzuela,charles.valenzuela@example.com,909-552-2357,Port Andrew,IL,USA,Retail
+CUST0362,Maureen,Zhang,maureen.zhang@example.com,+1-696-212-6867x454,Port Cody,NY,USA,Corporate
+CUST0363,Stephanie,Hanson,stephanie.hanson@example.com,875.323.2605x563,South Susanstad,IL,USA,Retail
+CUST0364,Tabitha,Butler,tabitha.butler@example.com,288.777.6419,Brittneyton,AL,USA,SME
+CUST0365,Matthew,Young,matthew.young@example.com,001-555-024-7041x0137,Johnhaven,KS,USA,Corporate
+CUST0366,Rachel,Lyons,rachel.lyons@example.com,865.983.9918,Lake Shelly,IA,USA,SME
+CUST0367,Connor,Henderson,connor.henderson@example.com,198-036-0603x4043,South Michaelshire,CO,USA,SME
+CUST0368,Gabriel,Holland,gabriel.holland@example.com,(445)567-8390x00356,Smithchester,LA,USA,Retail
+CUST0369,Tristan,Burnett,tristan.burnett@example.com,5334782877,North Johnstad,VT,USA,Corporate
+CUST0370,Michael,Hill,michael.hill@example.com,(640)938-8694x54547,West Pamelamouth,MT,USA,Corporate
+CUST0371,Kerri,Irwin,kerri.irwin@example.com,001-226-136-7363,North Davidmouth,CA,USA,Corporate
+CUST0372,Jerry,Clark,jerry.clark@example.com,+1-776-398-2763,Baldwinfurt,SD,USA,SME
+CUST0373,Sarah,Jackson,sarah.jackson@example.com,001-671-383-3160,Ashleyview,ID,USA,Retail
+CUST0374,Jeffrey,Lopez,jeffrey.lopez@example.com,212-045-0516x9704,Melissaville,NJ,USA,Retail
+CUST0375,Keith,Willis,keith.willis@example.com,779.635.1212x74330,Lake Ambershire,MN,USA,Corporate
+CUST0376,Caitlin,Hill,caitlin.hill@example.com,923-032-2967x20314,Robinside,MO,USA,Corporate
+CUST0377,Carla,Owen,carla.owen@example.com,294.108.7498,Strongburgh,NE,USA,SME
+CUST0378,Michael,Griffith,michael.griffith@example.com,(785)146-9195,East Johnton,TN,USA,SME
+CUST0379,Rhonda,Baker,rhonda.baker@example.com,(828)127-5557x972,Port Madelineburgh,KS,USA,SME
+CUST0380,Michael,Ramsey,michael.ramsey@example.com,(498)924-9193x128,Romanview,SD,USA,Corporate
+CUST0381,Mario,Garza,mario.garza@example.com,(076)860-8225,Bradleymouth,MI,USA,Corporate
+CUST0382,Sierra,Whitaker,sierra.whitaker@example.com,739.667.4866x568,Teresaland,HI,USA,Corporate
+CUST0383,Brooke,Hernandez,brooke.hernandez@example.com,783.805.5784,Lake Katrina,VA,USA,Retail
+CUST0384,Timothy,Russell,timothy.russell@example.com,+1-121-742-0213x303,South Stevenview,SD,USA,Corporate
+CUST0385,Courtney,Crane,courtney.crane@example.com,+1-635-099-1994x536,North Frank,SC,USA,Corporate
+CUST0386,Dwayne,Simpson,dwayne.simpson@example.com,556.092.4641,North Michaelburgh,NM,USA,SME
+CUST0387,Andrea,Figueroa,andrea.figueroa@example.com,+1-823-208-0666x896,Amandaport,TX,USA,SME
+CUST0388,Joseph,Bradley,joseph.bradley@example.com,001-265-661-3756x6559,South Robert,WA,USA,Corporate
+CUST0389,Jessica,Hale,jessica.hale@example.com,0307201895,Lake Davidshire,PA,USA,Retail
+CUST0390,Laura,Clark,laura.clark@example.com,215.209.1010,Harrishaven,AL,USA,Retail
+CUST0391,Eduardo,Frank,eduardo.frank@example.com,(642)602-8355,Barbarahaven,NJ,USA,Retail
+CUST0392,James,Harrell,james.harrell@example.com,001-964-453-4820,Williamschester,WI,USA,SME
+CUST0393,John,Patterson,john.patterson@example.com,+1-967-105-4837x94511,Evansside,HI,USA,Retail
+CUST0394,Dana,Davidson,dana.davidson@example.com,415-773-6367,Jessicaburgh,NV,USA,Corporate
+CUST0395,John,Snyder,john.snyder@example.com,5985850581,Lake Kathrynchester,CA,USA,SME
+CUST0396,Diana,Simpson,diana.simpson@example.com,(342)189-8264,East Aprilburgh,AZ,USA,Corporate
+CUST0397,Shannon,Miranda,shannon.miranda@example.com,(501)960-2232x10746,Amandastad,NM,USA,Corporate
+CUST0398,Kristen,Stone,kristen.stone@example.com,203-036-4482x634,East Carl,TX,USA,SME
+CUST0399,David,Wilson,david.wilson@example.com,6288391475,West Crystal,AZ,USA,SME
+CUST0400,Joseph,Bell,joseph.bell@example.com,262-377-3993x1248,Annashire,IA,USA,Retail
+CUST0401,Robert,Hickman,robert.hickman@example.com,(096)781-7635,New Mark,MD,USA,Corporate
+CUST0402,William,Mclaughlin,william.mclaughlin@example.com,001-620-318-2460x6904,Michaelhaven,HI,USA,SME
+CUST0403,Kari,Villegas,kari.villegas@example.com,(140)976-6757x18440,Murphychester,OR,USA,Retail
+CUST0404,Jonathan,Kennedy,jonathan.kennedy@example.com,(828)820-9978x2691,Kyleland,MT,USA,Corporate
+CUST0405,Joseph,Oneal,joseph.oneal@example.com,001-626-105-9781,East George,HI,USA,Corporate
+CUST0406,Patrick,Lopez,patrick.lopez@example.com,001-140-264-6060,Mccoyburgh,FL,USA,Corporate
+CUST0407,Jennifer,Williams,jennifer.williams@example.com,536.716.3016x32424,East Damonport,AL,USA,SME
+CUST0408,Melissa,Green,melissa.green@example.com,120.560.6573x4043,New Krista,VA,USA,SME
+CUST0409,Andrew,Hancock,andrew.hancock@example.com,872.495.8580,Davidton,DC,USA,Corporate
+CUST0410,Ashley,Bowers,ashley.bowers@example.com,(316)084-9067,Lake Kaylamouth,NM,USA,Retail
+CUST0411,Angela,Morgan,angela.morgan@example.com,105.427.5103,Kirkstad,MA,USA,SME
+CUST0412,Cesar,Gray,cesar.gray@example.com,424-301-4030x7343,New Suzanne,AK,USA,Corporate
+CUST0413,Eric,Torres,eric.torres@example.com,001-891-284-4135x82183,East Timberg,CT,USA,Corporate
+CUST0414,Mike,Garza,mike.garza@example.com,001-518-221-5636,Paulborough,RI,USA,Retail
+CUST0415,Nicholas,Gutierrez,nicholas.gutierrez@example.com,(074)285-3941x404,South Seth,OH,USA,Retail
+CUST0416,Beth,Johnson,beth.johnson@example.com,+1-246-957-1068x33039,Rodriguezfurt,WA,USA,Corporate
+CUST0417,Reginald,Dillon,reginald.dillon@example.com,186-643-2224,Cookstad,SD,USA,Corporate
+CUST0418,Joseph,Melton,joseph.melton@example.com,+1-006-858-8792x203,Tonyburgh,NH,USA,SME
+CUST0419,Morgan,Atkins,morgan.atkins@example.com,+1-535-113-5922x84459,Lake Melissafort,MN,USA,SME
+CUST0420,Robin,Horne,robin.horne@example.com,2524636265,South Briantown,WV,USA,SME
+CUST0421,John,Martin,john.martin@example.com,+1-909-468-5029x4303,Elizabethland,OR,USA,SME
+CUST0422,Monica,Merritt,monica.merritt@example.com,391.714.4207,Brandonview,WV,USA,SME
+CUST0423,Thomas,Reynolds,thomas.reynolds@example.com,571.060.5915x817,Kelseyview,NM,USA,Retail
+CUST0424,Valerie,Ramirez,valerie.ramirez@example.com,+1-618-232-5489x2555,Kathyfurt,AR,USA,SME
+CUST0425,Angela,Reilly,angela.reilly@example.com,001-912-230-7023x942,Smithtown,AL,USA,SME
+CUST0426,Joseph,Mitchell,joseph.mitchell@example.com,(524)897-9539,East Russell,KY,USA,Corporate
+CUST0427,Gary,Roberts,gary.roberts@example.com,(187)035-1356,Andersonshire,NE,USA,Retail
+CUST0428,Melissa,Ewing,melissa.ewing@example.com,808-324-8844x8414,West Roger,ME,USA,Corporate
+CUST0429,Lori,Bennett,lori.bennett@example.com,0852826050,West Jimmyborough,DC,USA,Corporate
+CUST0430,Michelle,Jones,michelle.jones@example.com,001-522-568-9509x9660,Allisonport,IA,USA,Corporate
+CUST0431,Karen,Mclean,karen.mclean@example.com,001-532-142-6920x4772,East Jamie,ME,USA,Corporate
+CUST0432,Kristin,Clark,kristin.clark@example.com,001-616-638-8362x63209,Hollyberg,UT,USA,Retail
+CUST0433,Steven,Chen,steven.chen@example.com,6997101817,Gonzaleshaven,CT,USA,Corporate
+CUST0434,Timothy,Guerrero,timothy.guerrero@example.com,1505340477,Port Erinhaven,OH,USA,SME
+CUST0435,Shelly,Clayton,shelly.clayton@example.com,988-476-6357,Johnton,AL,USA,Corporate
+CUST0436,Richard,Jones,richard.jones@example.com,467.655.3899,Bradleyfort,ID,USA,Retail
+CUST0437,Michael,Phillips,michael.phillips@example.com,576.000.9194x74136,Snyderchester,CO,USA,SME
+CUST0438,Olivia,Thompson,olivia.thompson@example.com,001-981-930-3654,West Christinastad,NE,USA,SME
+CUST0439,Brooke,Rodgers,brooke.rodgers@example.com,+1-569-150-6859x3156,Kellyburgh,NE,USA,SME
+CUST0440,Veronica,Walter,veronica.walter@example.com,+1-845-993-2169x6793,North Kim,IN,USA,Corporate
+CUST0441,Brian,Williams,brian.williams@example.com,001-430-540-5484x176,South Marcus,TN,USA,Retail
+CUST0442,Kelsey,Perez,kelsey.perez@example.com,001-457-095-5195x20728,Robertsland,IA,USA,Corporate
+CUST0443,Jeffrey,Harris,jeffrey.harris@example.com,(161)734-4270x773,Russelltown,ID,USA,SME
+CUST0444,Crystal,Coleman,crystal.coleman@example.com,(705)355-7716x64926,South Brandon,OK,USA,Corporate
+CUST0445,Matthew,French,matthew.french@example.com,+1-117-094-1189,East Christine,NM,USA,Retail
+CUST0446,Robert,Leonard,robert.leonard@example.com,(117)489-9754x52946,Perezberg,CT,USA,Corporate
+CUST0447,William,Owens,william.owens@example.com,(729)976-8480x08686,Andrefort,MD,USA,SME
+CUST0448,Stephanie,Williams,stephanie.williams@example.com,377-205-4545x91339,Underwoodburgh,TN,USA,Retail
+CUST0449,Frank,Campbell,frank.campbell@example.com,+1-952-871-9814x393,Hillbury,NJ,USA,SME
+CUST0450,Erin,Clark,erin.clark@example.com,+1-532-116-6177x0673,New Lindseyhaven,NH,USA,SME
+CUST0451,Holly,Garcia,holly.garcia@example.com,782.292.2974,Jonesfurt,DE,USA,Corporate
+CUST0452,Elijah,Hunt,elijah.hunt@example.com,655-395-3475,North Richardfort,SD,USA,SME
+CUST0453,Matthew,Smith,matthew.smith@example.com,+1-136-824-0022x3890,South Frank,CO,USA,Corporate
+CUST0454,Sarah,Bishop,sarah.bishop@example.com,+1-556-860-7731,Kennethstad,MN,USA,Retail
+CUST0455,Jeremy,Chavez,jeremy.chavez@example.com,001-151-792-8644x19401,Granttown,VT,USA,Retail
+CUST0456,Elizabeth,Wiley,elizabeth.wiley@example.com,+1-909-054-8835x28143,Parsonsfurt,VT,USA,Corporate
+CUST0457,Jackson,Moreno,jackson.moreno@example.com,(437)610-1908,Daleville,NE,USA,Retail
+CUST0458,William,Martinez,william.martinez@example.com,+1-995-374-1263x186,New Annette,WV,USA,Retail
+CUST0459,Sara,Stephens,sara.stephens@example.com,365-568-1014x2081,South Brittanyside,AL,USA,Retail
+CUST0460,Dennis,Hood,dennis.hood@example.com,(211)498-5408x3953,Port Bradleyville,NJ,USA,Corporate
+CUST0461,Ashley,Gonzalez,ashley.gonzalez@example.com,5646207577,South Michealfort,RI,USA,Corporate
+CUST0462,Angela,Livingston,angela.livingston@example.com,284-389-7994x405,West Ashley,DC,USA,SME
+CUST0463,Kelsey,Simmons,kelsey.simmons@example.com,(640)323-3089x71713,South Kathy,HI,USA,Retail
+CUST0464,Ronald,Nguyen,ronald.nguyen@example.com,001-696-075-7763x0260,North Chase,TN,USA,SME
+CUST0465,Kayla,Willis,kayla.willis@example.com,225-692-0597x580,Christopherland,SD,USA,Corporate
+CUST0466,Jo,Parks,jo.parks@example.com,(371)329-7327x11121,East Julie,MO,USA,Retail
+CUST0467,Hannah,Meadows,hannah.meadows@example.com,001-491-541-9989x60285,Mooreville,MT,USA,Corporate
+CUST0468,Angelica,Ramos,angelica.ramos@example.com,(675)752-6323x38401,East Gregoryland,VT,USA,SME
+CUST0469,Michael,Allen,michael.allen@example.com,866.869.0718,West Brucetown,PA,USA,SME
+CUST0470,Lori,Bishop,lori.bishop@example.com,795-484-3264x683,South Robert,TX,USA,Corporate
+CUST0471,Brandon,Roth,brandon.roth@example.com,616-423-0456,West Julie,DE,USA,Retail
+CUST0472,Connie,Wilson,connie.wilson@example.com,728.187.5106x2954,Middletonstad,OH,USA,Corporate
+CUST0473,Paul,Cochran,paul.cochran@example.com,(692)174-2032x70276,Port Franciscoville,RI,USA,Retail
+CUST0474,Wayne,Garcia,wayne.garcia@example.com,1610973576,Lake Johnview,IA,USA,Corporate
+CUST0475,Jose,Smith,jose.smith@example.com,558-231-6863x92347,Lake Kristopherberg,LA,USA,Corporate
+CUST0476,Melissa,Blanchard,melissa.blanchard@example.com,+1-157-384-7664x00729,Deleonshire,MD,USA,Retail
+CUST0477,Brent,Davis,brent.davis@example.com,+1-448-863-9238x18352,Danielleburgh,TN,USA,Retail
+CUST0478,Matthew,Rodriguez,matthew.rodriguez@example.com,9807372771,Lake Trevorburgh,MI,USA,Corporate
+CUST0479,Derrick,Drake,derrick.drake@example.com,(215)263-1459x0934,Austinhaven,MS,USA,Retail
+CUST0480,Nancy,Mccullough,nancy.mccullough@example.com,766-439-7935,North Amanda,NM,USA,SME
+CUST0481,Thomas,Matthews,thomas.matthews@example.com,(730)248-2554x6536,Wesleyshire,FL,USA,Retail
+CUST0482,Michael,Jones,michael.jones@example.com,9757439278,South Danielland,OR,USA,Retail
+CUST0483,Elizabeth,Rose,elizabeth.rose@example.com,627.057.8161x455,Loweland,AZ,USA,Corporate
+CUST0484,Patrick,Abbott,patrick.abbott@example.com,(226)856-3157,Linstad,LA,USA,Corporate
+CUST0485,John,Cohen,john.cohen@example.com,001-017-731-4766x5153,West Michaelton,ID,USA,Corporate
+CUST0486,Julia,Taylor,julia.taylor@example.com,001-545-905-5735x8727,New Ashleyville,AL,USA,Corporate
+CUST0487,Alexis,Tran,alexis.tran@example.com,+1-954-643-4138x1035,Port Reneeville,AR,USA,Retail
+CUST0488,Karen,Morrison,karen.morrison@example.com,(538)918-0064,Watsonport,CO,USA,Corporate
+CUST0489,Stephanie,Ortega,stephanie.ortega@example.com,892-195-4000x531,West Bailey,DC,USA,SME
+CUST0490,Stacie,Wilson,stacie.wilson@example.com,(419)166-4565x455,Markview,NE,USA,Retail
+CUST0491,Katie,Atkinson,katie.atkinson@example.com,(029)007-8745x0266,Smithstad,OH,USA,SME
+CUST0492,Jason,Hopkins,jason.hopkins@example.com,+1-816-239-7450x84929,Walterfurt,NH,USA,Retail
+CUST0493,Danielle,Thompson,danielle.thompson@example.com,253.345.6839x26882,South Cynthiaberg,DC,USA,Corporate
+CUST0494,Kenneth,Olson,kenneth.olson@example.com,(402)421-4325x18653,Christopherstad,NH,USA,SME
+CUST0495,Richard,Hernandez,richard.hernandez@example.com,+1-263-621-5681x148,Garybury,NV,USA,SME
+CUST0496,David,Flowers,david.flowers@example.com,519.078.7329x0287,East Patriciamouth,WI,USA,Corporate
+CUST0497,Lisa,Anderson,lisa.anderson@example.com,346-143-2964x07177,Stephanieshire,CO,USA,Corporate
+CUST0498,Susan,Lee,susan.lee@example.com,(350)353-0049x2207,Christophertown,TX,USA,Retail
+CUST0499,April,Brown,april.brown@example.com,984.527.5826,Lake Daniel,NC,USA,Retail
+CUST0500,Mary,Hernandez,mary.hernandez@example.com,504.654.5860x61013,Markville,WV,USA,SME
