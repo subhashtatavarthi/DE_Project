@@ -8,25 +8,11 @@ An enterprise-grade Data Engineering pipeline implementing the **Medallion Archi
 - **Observability**: Built-in execution logging and data integrity auditing.
 - **Reporting Ready**: Denormalized Gold layer tables (OBT) optimized for BI tools.
 
-## 🏗️ Architecture Overview
+## 🏗️ Process Flowchart
 
-The following diagram illustrates the data flow through the Medallion layers:
+The following flowchart illustrates the end-to-end data journey through the Medallion layers:
 
-![Architecture Diagram](docs/architecture.png)
-
-### Visual Process Flow
-graph LR
-    subgraph "Ingest"
-        S[Source CSVs] --> R[Raw Layer]
-    end
-    subgraph "Process"
-        R --> C[Curated Layer]
-        C --> G[Gold Layer]
-    end
-    subgraph "Observe"
-        P[Engine] -.-> A[Audit/Watermark]
-    end
-```
+![Process Flowchart](docs/flowchart.png)
 
 The pipeline organizes data into four logical databases:
 

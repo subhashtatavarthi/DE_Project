@@ -1,53 +1,9 @@
 # Enterprise ETL Project Handover Notes
 
-## 🏗️ Full Process Architecture
-The following diagram illustrates the complete data flow, from the source CSV files through the Medallion layers (Raw, Curated, Gold), including the Audit and Watermark tracking system.
+## 🏗️ Full Process Flowchart
+The following flowchart illustrates the complete data journey, from the environment reset to the final business aggregates in the Gold layer.
 
-![Architecture Diagram](docs/architecture.png)
-
-### Technical Flow (Mermaid Reference)
-```mermaid
-graph TD
-    subgraph "Source (External)"
-        S[CSV Files]
-    end
-
-    subgraph "1. Raw Layer (raw.db)"
-        R[Raw Tables]
-        R_Meta["+ ingestion_timestamp"]
-    end
-
-    subgraph "2. Curated Layer (curated.db)"
-        C_Dim[Dimensions - Customers/Products]
-        C_Fact[Facts - Orders/Payments]
-    end
-
-    subgraph "3. Gold Layer (gold.db)"
-        G_Agg[Aggregates - Daily Sales]
-        G_OBT[OBT - reporting_sales_wide]
-        G_Stats[Metrics - Customer Stats]
-    end
-
-    subgraph "4. System Layer (audit.db)"
-        A_Log[Execution Log]
-        A_WM[Watermark - Last Load TS]
-    end
-
-    %% Flow
-    S -->|Ingest| R
-    R -->|Clean & Model| C_Dim
-    R -->|Clean & Model| C_Fact
-    C_Dim -->|Join & Aggregate| G_Agg
-    C_Fact -->|Join & Aggregate| G_Agg
-    C_Dim -->|Denormalize| G_OBT
-    C_Fact -->|Denormalize| G_OBT
-    G_OBT -->|Profile| G_Stats
-
-    %% Audit Flow
-    etl_pipeline.py["etl_pipeline.py"] -.->|Log Run| A_Log
-    etl_pipeline.py -.->|Check/Update| A_WM
-    A_WM -.->|Filter Incremental| S
-```
+![Process Flowchart](docs/flowchart.png)
 
 ## 1. High-Level Process Execution
 To achieve the **Initial Full Load**, we followed these enterprise data engineering steps:
